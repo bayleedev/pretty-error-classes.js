@@ -1,0 +1,25 @@
+{
+  "name": "pretty-error",
+  "version": "1.0.0",
+  "description": "Dynamically create error classes with a sugary syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blainesch/pretty-error.js.git"
+  },
+  "keywords": [
+    "error",
+    "errors",
+    "dynamic",
+    "class"
+  ],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/blainesch/pretty-error.js/issues"
+  },
+  "homepage": "https://github.com/blainesch/pretty-error.js#readme"
+}
