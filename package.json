@@ -1,5 +1,5 @@
 {
-  "name": "pretty-error",
+  "name": "pretty-error-classes",
   "version": "1.0.0",
   "description": "Dynamically create error classes with a sugary syntax.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/blainesch/pretty-error.js.git"
+    "url": "git+ssh://git@github.com/blainesch/pretty-error-classes.js.git"
   },
   "keywords": [
     "error",
@@ -19,7 +19,7 @@
   "author": "",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/blainesch/pretty-error.js/issues"
+    "url": "https://github.com/blainesch/pretty-error-classes.js/issues"
   },
-  "homepage": "https://github.com/blainesch/pretty-error.js#readme"
+  "homepage": "https://github.com/blainesch/pretty-error-classes.js#readme"
 }

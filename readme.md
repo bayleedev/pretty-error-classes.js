@@ -1,9 +1,9 @@
-## Pretty Errors
+## Pretty Error Classes
 
 Allows you to dynamically create error classes, with an elegant API.
 
 ~~~ javascript
-const { ValidationError } = require('prettyErrors')
+const { ValidationError } = require('pretty-error-classes')
 
 try {
   throw new ValidationError('meow')
