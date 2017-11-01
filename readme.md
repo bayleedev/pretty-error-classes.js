@@ -1,5 +1,7 @@
 ## Pretty Error Classes
 
+[![Build Status](https://travis-ci.org/blainesch/pretty-error-classes.js.svg?branch=master)](https://travis-ci.org/blainesch/pretty-error-classes.js)
+
 Allows you to dynamically create error classes, with an elegant API.
 
 ~~~ javascript
